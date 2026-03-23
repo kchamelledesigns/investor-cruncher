@@ -1,7 +1,7 @@
-# Investor-Cruncher
+# Real-Estate-Calculator
 Wholesaler Deal Evaluator Tool
 
-Investor Cruncher is a free, browser-based tool designed to help real estate wholesalers and investors quickly calculate the Maximum Allowable Offer (MAO) on property deals. It uses standard industry formulas and gives instant results to help you make smarter, faster offers with confidence.
+Real Estate Calculator is a free, browser-based tool designed to help real estate wholesalers and investors quickly calculate the Maximum Allowable Offer (MAO) on property deals. It uses standard industry formulas and gives instant results to help you make smarter, faster offers with confidence.
 
 🔍 Features
 
@@ -31,7 +31,7 @@ Get your MAO — the highest price you can offer the seller to still make a prof
 
 📬 Lead Capture
 
-Investor Cruncher includes a simple form to collect visitor name and email addresses before they use the tool. This allows you to:
+Real Estate Calculator includes a simple form to collect visitor name and email addresses before they use the tool. This allows you to:
 
 Build your buyer or seller list
 
@@ -61,7 +61,7 @@ User login with saved deal history
 
 🔗 Live Site
 
-https://kchamelledesigns.github.io/investor-cruncher/
+https://kchamelledesigns.github.io/real-estate-calculator/
 
 📫 Contact
 
