@@ -1,68 +1,91 @@
-# Real-Estate-Calculator
-Wholesaler Deal Evaluator Tool
+# 📊 Real Estate SaaS Dashboard
 
-Real Estate Calculator is a free, browser-based tool designed to help real estate wholesalers and investors quickly calculate the Maximum Allowable Offer (MAO) on property deals. It uses standard industry formulas and gives instant results to help you make smarter, faster offers with confidence.
+## Real Estate Calculator – Wholesaler Deal Evaluator Tool
 
-🔍 Features
+A browser-based, portfolio-ready SaaS tool designed to help real estate wholesalers and investors calculate the Maximum Allowable Offer (MAO) on property deals. Built with a modern, clean interface and a premium dashboard experience.
 
-Input key deal metrics: ARV, repair costs, profit margin, assignment fee, and closing costs
+---
 
-Calculates Maximum Allowable Offer (MAO) instantly
+## 🔹 Features
 
-Clean, mobile-responsive design with a real estate-themed color palette
+Deal Calculator: Input ARV, repair costs, profit margin, assignment fee, and closing costs. Calculate MAO instantly.
+Local Storage Dashboard: Save deals locally — no backend required.
+Edit & Delete Deals: Manage your deals efficiently.
+Deal Charts: Visualize deal breakdowns with dynamic charts.
+Premium UI: Clean, modern, startup-style SaaS dashboard.
+Responsive Design: Works on desktop and mobile.
 
-Simple "How to Use" guide included for clarity
+---
 
-Built-in lead capture (name + email) to grow your buyer or seller contact list
+### 🧩 How to Use
 
-🧠 How to Use
+Enter your email to access the dashboard.
+Fill in deal details:
+ARV (After Repair Value)
+Repair Costs
+Desired Profit % (default: 30%)
+Assignment Fee
+Closing Costs (optional)
+Click Calculate Deal.
+View your MAO, deal chart, and save your deals to your local dashboard.
+Edit or delete saved deals directly from the dashboard.
 
-Enter the ARV (After Repair Value) of the property.
+---
 
-Estimate the repair costs needed to bring the property to market value.
+### 🛠 Tech Stack
 
-Set the buyer's desired profit margin (or keep the 30% default).
+HTML5
+CSS3 (custom SaaS theme)
+JavaScript (vanilla JS)
+Chart.js
+ for visual deal breakdowns
+LocalStorage for data persistence
+GitHub Pages for hosting
 
-Enter your assignment fee (your wholesaling profit).
+---
 
-Include closing costs (optional).
+### 📈 Dashboard Screenshots
 
-Get your MAO — the highest price you can offer the seller to still make a profit.
+[Image](src)
 
-📬 Lead Capture
+---
 
-Real Estate Calculator includes a simple form to collect visitor name and email addresses before they use the tool. This allows you to:
+### 📦 Installation / Deployment
 
-Build your buyer or seller list
+Clone or download this repository.
+Open index.html in your browser or deploy using GitHub Pages for online access.
+Start calculating and saving your deals instantly!
 
-Send deal alerts or updates
+---
 
-Offer future services, products, or partnerships
+### 📂 Project Structure
 
-📦 Tech Stack
+```markdown
+/real-estate-calculator
+│
+├── index.html       # Main dashboard page
+├── style.css        # Premium SaaS styling
+├── script.js        # Calculator logic + dashboard interactions
+└── README.md        # Project overview & instructions
+```
 
-HTML
+---
 
-CSS (custom real estate theme)
+### 🚀 Future Plans
 
-JavaScript (vanilla JS, no frameworks)
+User authentication with cloud-based deal storage
+Export deals to PDF or CSV
+Optional email notifications for deals
+Multi-user support
 
-GitHub Pages for fast, free hosting
+---
 
-📈 Future Plans
+### 🔗 Live Demo
 
-Export deal summaries to PDF
+[View Live Dashboard](https://kchamelledesigns.github.io/real-estate-calculator/)
 
-Google Sheets integration
+---
 
-Optional email notifications
+### 📫 Contact
 
-User login with saved deal history
-
-🔗 Live Site
-
-https://kchamelledesigns.github.io/real-estate-calculator/
-
-📫 Contact
-
-Want help customizing this tool for your real estate brand or website? Reach out at kchamelledesigns@gmail.com.
+For questions, feedback, or customization: [kchamelledesigns@gmail.com](mailto:kchamelledesigns@gmail.com)
