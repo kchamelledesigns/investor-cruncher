@@ -46,7 +46,10 @@ GitHub Pages for hosting
 
 ### 📈 Dashboard Screenshots
 
-[Image](images)
+[Image 001](images/images/ 001 - Real Estate SaaS Dashboard - [kchamelledesigns.github.io].png)
+[Image 002](images)
+[Image 003](images)
+
 
 ---
 
