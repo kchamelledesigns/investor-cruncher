@@ -72,3 +72,18 @@ border: 1px solid #c3e6cb;
 border-radius: 5px;
 display: none;
 }
+
+.dashboard {
+  margin-top: 2rem;
+  padding: 1rem;
+  background: #f7f7f7;
+  border-radius: 8px;
+}
+
+.deal-card {
+  background: white;
+  padding: 1rem;
+  margin-bottom: 1rem;
+  border-left: 4px solid #2E8B57;
+  border-radius: 5px;
+}
