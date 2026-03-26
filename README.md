@@ -47,7 +47,9 @@ GitHub Pages for hosting
 ### 📈 Dashboard Screenshots
 
 [Image 001](images/001-Real-Estate-Calculator.png)
+
 [Image 002](images/002-Real-Estate-Calculator.png)
+
 [Image 003](images/003-Real-Estate-Calculator.png)
 
 
