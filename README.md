@@ -8,57 +8,54 @@ A browser-based, portfolio-ready SaaS tool designed to help real estate wholesal
 
 ## 🔹 Features
 
-Deal Calculator: Input ARV (After Repair Value), repair costs, profit margin, assignment fee, and closing costs. Calculate MAO instantly.
-Local Storage Dashboard: Save deals locally — no backend required.
-Edit & Delete Deals: Manage your deals efficiently.
-Deal Charts: Visualize deal breakdowns with dynamic charts.
-Premium UI: Clean, modern, startup-style SaaS dashboard.
+Deal Calculator: Input ARV (After Repair Value), repair costs, profit margin, assignment fee, and closing costs. Calculate MAO instantly.\
+Local Storage Dashboard: Save deals locally — no backend required.\
+Edit & Delete Deals: Manage your deals efficiently.\
+Deal Charts: Visualize deal breakdowns with dynamic charts.\
+Premium UI: Clean, modern, startup-style SaaS dashboard.\
 Responsive Design: Works on desktop and mobile.
 
 ---
 
 ### 🧩 How to Use
 
-Enter your email to access the dashboard.
-Fill in deal details:
-ARV (After Repair Value)
-Repair Costs
-Desired Profit % (default: 30%)
-Assignment Fee
-Closing Costs (optional)
-Click Calculate Deal.
-View your MAO, deal chart, and save your deals to your local dashboard.
+Enter your email to access the dashboard.\
+Fill in deal details:\
+ARV (After Repair Value)\
+Repair Costs\
+Desired Profit % (default: 30%)\
+Assignment Fee\
+Closing Costs (optional)\
+Click Calculate Deal.\
+View your MAO, deal chart, and save your deals to your local dashboard.\
 Edit or delete saved deals directly from the dashboard.
 
 ---
 
 ### 🛠 Tech Stack
 
-HTML5
-CSS3 (custom SaaS theme)
-JavaScript (vanilla JS)
-Chart.js
- for visual deal breakdowns
-LocalStorage for data persistence
+HTML5\
+CSS3 (custom SaaS theme)\
+JavaScript (vanilla JS)\
+Chart.js\
+ for visual deal breakdowns\
+LocalStorage for data persistence\
 GitHub Pages for hosting
 
 ---
 
 ### 📈 Dashboard Screenshots
 
-[Image 001](images/001-Real-Estate-Calculator.png)
-
-[Image 002](images/002-Real-Estate-Calculator.png)
-
+[Image 001](images/001-Real-Estate-Calculator.png)\
+[Image 002](images/002-Real-Estate-Calculator.png)\
 [Image 003](images/003-Real-Estate-Calculator.png)
-
 
 ---
 
 ### 📦 Installation / Deployment
 
-Clone or download this repository.
-Open index.html in your browser or deploy using GitHub Pages for online access.
+Clone or download this repository.\
+Open index.html in your browser or deploy using GitHub Pages for online access.\
 Start calculating and saving your deals instantly!
 
 ---
@@ -78,9 +75,9 @@ Start calculating and saving your deals instantly!
 
 ### 🚀 Future Plans
 
-User authentication with cloud-based deal storage
-Export deals to PDF or CSV
-Optional email notifications for deals
+User authentication with cloud-based deal storage\
+Export deals to PDF or CSV\
+Optional email notifications for deals\
 Multi-user support
 
 ---
